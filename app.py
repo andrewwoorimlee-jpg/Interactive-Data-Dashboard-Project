@@ -5,7 +5,7 @@ import base64
 
 # Page Layout and Theme
 st.set_page_config(
-    page_title="Interactive Data Analysis Dashboard",
+    page_title="StatSnap",
     layout="wide"
 )
 
