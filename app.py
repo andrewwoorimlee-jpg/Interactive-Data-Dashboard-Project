@@ -74,7 +74,7 @@ st.markdown(
 set_background("Marble_Background.jpeg") 
 
 # Title & Description
-st.title("📊 Interactive Data Analysis Dashboard")
+st.title("📊 StatSnap")
 st.markdown(
     "Upload a CSV dataset to explore numeric and categorical features, "
     "filter data interactively, visualize distributions and correlations, "
